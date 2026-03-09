@@ -25,4 +25,4 @@ Amazon Bedrock
 https://d3jpep70k6vdq2.cloudfront.net
 
 ## Demo Video
-(Add YouTube link here)
+https://youtu.be/rxlvt5_Egj8?si=GzlsU-SB30soDVCv
